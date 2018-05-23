@@ -1,0 +1,2 @@
+# fluentd
+base centos
